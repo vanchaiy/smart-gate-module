@@ -1,4 +1,4 @@
- <img src="./Screenshot_TUYA/TUYA_Smart_Gate_Module_1.png" alt="tuya"  />
+ <img src="./Screenshot_TUYA/TUYA_Smart_Gate_Module.png" alt="tuya"  />
 
 # 🚪 TUYA Smart Gate Module
 Smart door control system with beautiful status graphics showing door status and control buttons for opening, closing and stopping via TUYA app and has a support card for Home Assistant
@@ -27,7 +27,10 @@ Smart door control system with beautiful status graphics showing door status and
     &nbsp;&nbsp;🔸 Opening - Door is moving open <br>
     &nbsp;&nbsp;🔸 Closing - Door is moving close <br>
     &nbsp;&nbsp;🔸 Stop - You can stop the door while it's moving open or closed <br>
-🔔 Door open and close notification function <br>
+🔔 Notification function: Door open - Door closed - Forgot to close the door <br>
+🛡️ Automatic door closing <br>
+🎙️ Supports Google Assistant voice commands <br>
+🤖 Support automation <br>
 📊 Status history <br><br>
 
 #### 🎏 TH
@@ -39,17 +42,22 @@ Smart door control system with beautiful status graphics showing door status and
    &nbsp;&nbsp;🔸 กำลังเปิด -  ประตูกำลังเคลื่อนที่เปิด<br>
    &nbsp;&nbsp;🔸 กำลังปิด - ประตูกำลังเคลื่อนที่ปิด<br>
    &nbsp;&nbsp;🔸 หยุด - คุณสั่งหยุดในขณะที่ประตูกำลังเคลื่อนที่เปิด หรือ ปิด<br>
-🚨 ฟังก์ชั่นแจ้งเตือน ประตูเปิด และ ปิด<br>
+🚨 ฟังก์ชั่นแจ้งเตือน ประตูเปิด - ประตูปิด - ลืมปิดประตู<br>
+🛡️ ปิดประตูอัตโนมัติ <br>
+🎙️ รองรับสั่งงานด้วยเสียง Google Assistant <br>
+🤖 รองรับระบบอัตโนมัติ <br>
 📊 ประวัติการสถานะย้อนหลัง<br>
 ## 📸 Sample screenshot from TUYA app
+
+[ดูวิดีโอสาธิต](./Screenshot_TUYA/Screen_Recording_20251109_005006_SmartLife.mp4)
 
 
 Located in the `Screenshot_TUYA` folder:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./Screenshot_TUYA/Screenshot_20251019_144057_SmartLife.jpg" alt="Gate Screen" width="140" height="300"/>
-  <img src="./Screenshot_TUYA/Screenshot_20251019_144103_SmartLife.jpg" alt="Gate Screen" width="140" height="300"/>
-  <img src="./Screenshot_TUYA/Screenshot_20251019_144111_SmartLife.jpg" alt="Gate Screen" width="140" height="300"/>
-  <img src="./Screenshot_TUYA/Screenshot_20251019_144117_SmartLife.jpg" alt="Gate Screen" width="140" height="300"/>
+  <img src="./Screenshot_TUYA/Screenshot_20251109_004801_SmartLife.jpg" alt="Gate Screen" width="140" height="300"/>
+  <img src="./Screenshot_TUYA/Screenshot_20251109_004817_SmartLife.jpg" alt="Gate Screen" width="140" height="300"/>
+  <img src="./Screenshot_TUYA/Screenshot_20251109_004838_SmartLife.jpg" alt="Gate Screen" width="140" height="369"/>
+  <img src="./Screenshot_TUYA/Screenshot_20251109_004854_SmartLife.jpg" alt="Gate Screen" width="140" height="300"/>
 </div>
 
 
