@@ -1,0 +1,105 @@
+{
+  "result": {
+    "properties": [
+      {
+        "code": "countdown_1",
+        "custom_name": "",
+        "dp_id": 2,
+        "time": 1762947983522,
+        "type": "value",
+        "value": 0
+      },
+      {
+        "code": "alarm_countdown_1",
+        "custom_name": "",
+        "dp_id": 5,
+        "time": 1762843080736,
+        "type": "value",
+        "value": 0
+      },
+      {
+        "code": "door_state_1",
+        "custom_name": "",
+        "dp_id": 12,
+        "time": 1762993999121,
+        "type": "enum",
+        "value": "close_alarm"
+      },
+      {
+        "code": "button_open",
+        "custom_name": "",
+        "dp_id": 101,
+        "time": 1762833069906,
+        "type": "bool",
+        "value": false
+      },
+      {
+        "code": "button_close",
+        "custom_name": "",
+        "dp_id": 102,
+        "time": 1762833069906,
+        "type": "bool",
+        "value": false
+      },
+      {
+        "code": "button_stop",
+        "custom_name": "",
+        "dp_id": 103,
+        "time": 1762833069906,
+        "type": "bool",
+        "value": false
+      },
+      {
+        "code": "sensor_open",
+        "custom_name": "",
+        "dp_id": 104,
+        "time": 1762993870910,
+        "type": "bool",
+        "value": false
+      },
+      {
+        "code": "sensor_close",
+        "custom_name": "",
+        "dp_id": 105,
+        "time": 1762993999060,
+        "type": "bool",
+        "value": true
+      },
+      {
+        "code": "sensor_opening",
+        "custom_name": "",
+        "dp_id": 106,
+        "time": 1762993993991,
+        "type": "bool",
+        "value": false
+      },
+      {
+        "code": "sensor_closing",
+        "custom_name": "",
+        "dp_id": 107,
+        "time": 1762993999213,
+        "type": "bool",
+        "value": false
+      },
+      {
+        "code": "voice_control",
+        "custom_name": "",
+        "dp_id": 108,
+        "time": 1762993996507,
+        "type": "bool",
+        "value": false
+      },
+      {
+        "code": "auto_close_enable",
+        "custom_name": "",
+        "dp_id": 109,
+        "time": 1762844487653,
+        "type": "bool",
+        "value": false
+      }
+    ]
+  },
+  "success": true,
+  "t": 1763083313467,
+  "tid": "4d8d24c8c0f811f09d3fa644xxxxxxxxx"
+}
